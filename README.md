@@ -10,4 +10,4 @@ In this project I have analyzed and developed 3 different things:
 
 ## Contact
 If you want any explanation or any resource used for this project, please
-contact me @ juan.perez@algaba.com
+contact me @ juan.perezalgaba@gmail.com
